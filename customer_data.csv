@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,Product_Category,Purchase_Amount,Payment_Method,Purchase_Frequency,Rating
+1,21,Female,Electronics,25000,UPI,Monthly,4
+2,25,Male,Fashion,3000,Credit Card,Weekly,5
+3,32,Female,Groceries,1500,Cash,Daily,3
+4,28,Male,Electronics,40000,Debit Card,Monthly,5
+5,35,Female,Beauty,5000,UPI,Weekly,4
+6,22,Male,Fashion,2500,Cash,Monthly,3
+7,40,Female,Home Decor,12000,Credit Card,Yearly,4
+8,30,Male,Electronics,35000,UPI,Weekly,5
+9,27,Female,Groceries,1800,Debit Card,Daily,4
+10,24,Male,Beauty,4500,Cash,Monthly,3
